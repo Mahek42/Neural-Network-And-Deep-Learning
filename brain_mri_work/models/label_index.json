@@ -1,0 +1,19 @@
+{
+  "classes": [
+    "Astrocytoma",
+    "Carcinoma",
+    "Ependymoma",
+    "Ganglioglioma",
+    "Germinoma",
+    "Glioblastoma",
+    "Granuloma",
+    "Medulloblastoma",
+    "Meningioma",
+    "Neurocytoma",
+    "Normal",
+    "Oligodendroglioma",
+    "Papilloma",
+    "Schwannoma",
+    "Tuberculoma"
+  ]
+}
